@@ -16,7 +16,7 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
    * Data Analysis
    
-## Basic Methodology
+## Basic Methodology & Overview
 
   #### Data Modeling
 
@@ -30,19 +30,9 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
   Test the accuracy of the database by performing various queries. Refer to "basic_queries.sql" file in the "resources" section.
 
-## Overview
-
-![overview](images/overview.JPG)
-
-The capture above shows a partial view of the workbook. Notice a command button called "Start" has been created to run the script for all spreadsheets. 
-
-![results](images/results.JPG)
-
-Finally, the last capture displays the requirements described on the "Basic Methodology" section. 
-
 ## Conclusion 
 
-The app works as intended and runs efficiently with only one script! A possible follow-up to this project could include more features such as graphs to track open and close prices, total stock volume, and percentage increase or decrease over a period of the time.
+The app works as intended! A possible follow-up to this project could include charting the dataset in R or Tableau to produce insights on employee salaries based on parameters such as department, manager, and seniority or even summarize information based on demographics which can potentially provide valuable insights about the company's workforce.
 
 ### Copyright
 
