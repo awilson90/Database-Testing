@@ -1,6 +1,6 @@
 # SQL Project - Database Testing
 
-![cover](cover.png)
+![cover](resources/images/cover.png)
 
 ## Background
 
