@@ -1,14 +1,14 @@
 # Data Analysis
-# Once you have a complete database, do the following:
+# Performed the following tasks to verify the csv files have been merged correctly with fully operational capabilities:
 
-# 1)	List the following details of each employee: employee number, last name, first name, gender, and salary.
+# 1)	Display details for each employee: employee number, last name, first name, gender, and salary.
 
 select t1.emp_no, t1.last_name, t1.first_name, t1.gender, t2.salary
 from employees t1
 inner join salaries t2 on t2.emp_no = t1.emp_no
 order by 1;
 
-# 2)		List employees who were hired in 1986.
+# 2)  Search employees hired in 1986.
 
 SELECT emp_no, last_name, first_name, hire_date FROM employees
 WHERE hire_date BETWEEN '1986/01/01' AND '1986/12/31';
