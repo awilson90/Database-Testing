@@ -1,10 +1,10 @@
-# SQL Project - Database Testing
+# SQL - Database Testing
 
 ![cover](resources/images/cover.jpg)
 
 ## Background
 
-For this project, we will use six csv files with information about both former and current employees in a company to create an unified dataset and retrieve specific details about them in a simple manner. 
+We used six csv files with information about both former and current employees in a company to create an unified dataset and retrieve specific details about them in a simple manner. 
 
 ## Objective
 
